@@ -1,0 +1,25 @@
+{
+    "explanations": {
+        "kernel_shap": {
+            "-1": {
+                "expected_value": -0.6831260519775896,
+                "global_shap_values": {
+                    "review_body": 0.04136450177543742
+                }
+            },
+            "0": {
+                "expected_value": -0.7115932825387625,
+                "global_shap_values": {
+                    "review_body": 0.03471466252754609
+                }
+            },
+            "1": {
+                "expected_value": -0.6848073696050242,
+                "global_shap_values": {
+                    "review_body": 0.056299778949146256
+                }
+            }
+        }
+    },
+    "version": "1.0"
+}
